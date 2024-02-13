@@ -12,16 +12,17 @@ The purpose of this model is to provide an efficient and accurate tool for early
   * Scalability: The model is designed to handle large volumes of patient data, making it suitable for use in both small clinics and large hospitals.
   * Accuracy: The model has been trained on a comprehensive dataset and rigorously evaluated to ensure high accuracy in predicting heart disease.
 ## How to Use
-Input Data: Enter the required patient information, including age, gender, cholesterol levels, blood pressure, etc., into the designated fields.
-Generate Prediction: Click on the "Predict" button to generate a prediction regarding the likelihood of heart disease for the input patient.
-Interpret Results: The model will provide a prediction score or probability indicating the likelihood of heart disease. Interpret the results and take appropriate action based on the prediction.
+  1. Input Data: Enter the required patient information, including age, gender, cholesterol levels, blood pressure, etc., into the designated fields.
+  2. Generate Prediction: Click on the "Predict" button to generate a prediction regarding the likelihood of heart disease for the input patient.
+  3. Interpret Results: The model will provide a prediction score or probability indicating the likelihood of heart disease. Interpret the results and take appropriate action based 
+     on the prediction.
 ## Requirements
   * Python 3.x
   * Required Python libraries (e.g., NumPy, Pandas, Scikit-learn)
   * IDE(Jupyter Notebook, Collab)
 ## Installation
-Clone the repository from [git@github.com:MAYURANILPATIL/Heart_Disease_Prediction_Model.git].
-Install the required Python libraries using pip: Scikit-learn, numpy, pandas, matplotlib.
+  * Clone the repository from [git@github.com:MAYURANILPATIL/Heart_Disease_Prediction_Model.git].
+  * Install the required Python libraries using pip: Scikit-learn, numpy, pandas, matplotlib.
 
 ## Contributors
 Mayur Patil
