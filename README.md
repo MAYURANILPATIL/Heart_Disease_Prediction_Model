@@ -21,7 +21,7 @@ The purpose of this model is to provide an efficient and accurate tool for early
   * Required Python libraries (e.g., NumPy, Pandas, Scikit-learn)
   * IDE(Jupyter Notebook, Collab)
 ## Installation
-  * Clone the repository from [git@github.com:MAYURANILPATIL/Heart_Disease_Prediction_Model.git].
+  * Clone the repository from [https://github.com/MAYURANILPATIL/Heart_Disease_Prediction_Model.git].
   * Install the required Python libraries using pip: Scikit-learn, numpy, pandas, matplotlib.
 
 ## Contributors
